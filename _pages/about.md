@@ -1,6 +1,6 @@
 ---
 permalink: /
-title:
+title: <br>
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 HOWDY!
 ------
-I'm a PhD in Physiology, with expertise in biomechanics, motor control, and biomedical engineering. I am obsessed with how the body moves - whether its why our movements change during neurological disease or how we best optimize athletic performance. I'm an experienced researcher and avid cyclist; between training and academics, my remaining free time involves vigorous snacking. Let's make it happen!
+I'm a PhD in Physiology, with expertise in biomechanics, motor control, and biomedical engineering. I am obsessed with how the body moves - whether it's why movements change during neurological disease or how we can best optimize athletic performance. I'm an experienced researcher and avid cyclist; between training and academics, my remaining free time involves vigorous snacking. Let's make it happen!
 
 Create content & metadata
 ------
