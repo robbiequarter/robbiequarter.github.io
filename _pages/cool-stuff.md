@@ -1,5 +1,5 @@
 ---
-title: COOL STUFF
+title: "THINGS I LIKE"
 excerpt: 
   <br>
 layout: collection
