@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CURRICULUM VITAE
+title: THINGS I'VE DONE
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
