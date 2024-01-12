@@ -210,9 +210,9 @@ defaults:
   # _cool-stuff
   - scope:
       path: ""
-      type: cool-stuff
+      type: archive
     values:
-      layout: collection
+      layout: single
       author_profile: true
       share: false
       comment: false
