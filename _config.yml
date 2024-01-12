@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Robbie Courter"
 title_separator          : "-"
 name                     : &name "Robbie Courter"
-description              : &description "DID THIS WORK?"
+description              : 
 url                      : https://robbiequarter.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "robbiequarter/robbiequarter.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
