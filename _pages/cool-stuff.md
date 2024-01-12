@@ -1,6 +1,7 @@
 ---
 title: COOL STUFF
-excerpt: Things I’ve worked on
+excerpt: 
+  <br>
 layout: collection
 header:
   overlay_image: header_image.jpg
