@@ -1,12 +1,10 @@
 ---
 layout: single
-title: THINGS I'VE DONE
+title: "THINGS I'VE DONE"
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-excerpt: |
-  <br>
-
+excerpt: <br>
 permalink: /cv/
 author_profile: true
 redirect_from:
