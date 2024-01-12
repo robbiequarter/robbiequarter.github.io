@@ -1,6 +1,11 @@
 ---
 layout: archive
-title: "Publications"
+title: PUBLICATIONS
+header:
+  overlay_image: header_image.jpg
+  overlay_filter: 0.3
+excerpt: |
+  <br>
 permalink: /publications/
 author_profile: true
 ---
