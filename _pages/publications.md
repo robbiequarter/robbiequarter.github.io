@@ -4,8 +4,7 @@ title: "THINGS I'VE WRITTEN"
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-excerpt: |
-  <br>
+excerpt: <br>
 permalink: /publications/
 author_profile: true
 ---
