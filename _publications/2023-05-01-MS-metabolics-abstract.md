@@ -12,4 +12,4 @@ In healthy adults and animals, movement speeds are often chosen to reduce the en
 
 [Download paper here](https://doi.org/10.1016/j.msard.2023.104653)
 
-Recommended citation: Courter, R., Alvarez, E., Enoka, R., & Ahmed, A. (2023). Movement-specific changes in energy expenditure for persons with mild multiple sclerosis. <i>Multiple Sclerosis and Related Disorders</i>, 73, 104653. https://doi.org/10.1016/j.msard.2023.104653
+**Recommended citation:** Courter, R., Alvarez, E., Enoka, R., & Ahmed, A. (2023). Movement-specific changes in energy expenditure for persons with mild multiple sclerosis. <i>Multiple Sclerosis and Related Disorders</i>, 73, 104653. https://doi.org/10.1016/j.msard.2023.104653
