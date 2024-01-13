@@ -3,7 +3,7 @@ title: "Effort cost of reaching prompts vigor reduction in older adults"
 collection: publications
 excerpt: 'Why does aging coincide with a slowing of movement?'
 date: 2023-08-29
-venue: 'bioRxiv'
+venue: 'bioRxiv [preprint]'
 paperurl: 'https://doi.org/10.1101/2023.08.28.555022'
 citation: 
 ---
