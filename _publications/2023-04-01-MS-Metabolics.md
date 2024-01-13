@@ -12,4 +12,4 @@ Individuals with multiple sclerosis (MS) often move more slowly than those witho
 
 [Download paper here](https://doi.org/10.1152/jn.00373.2022)
 
-Recommended citation: Courter, R. J., Alvarez, E., Enoka, R. M., & Ahmed, A. A. (2023). Metabolic costs of walking and arm reaching in persons with mild multiple sclerosis., <i>Journal of Neurophysiology</i>, 129(4), 819–832. https://doi.org/10.1152/jn.00373.2022
+**Recommended citation:** Courter, R. J., Alvarez, E., Enoka, R. M., & Ahmed, A. A. (2023). Metabolic costs of walking and arm reaching in persons with mild multiple sclerosis., <i>Journal of Neurophysiology</i>, 129(4), 819–832. https://doi.org/10.1152/jn.00373.2022
