@@ -1,7 +1,7 @@
 ---
 title: "Movement-specific changes in energy expenditure for persons with mild multiple sclerosis"
 collection: publications
-excerpt: <br>
+excerpt: 'Does MS affect the energy costs of walking and reaching differently?'
 date: 2023-05-01
 venue: 'Multiple Sclerosis and Related Disorders'
 paperurl: 'https://doi.org/10.1016/j.msard.2023.104653'
