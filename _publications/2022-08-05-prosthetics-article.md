@@ -2,7 +2,7 @@
 title: "Faster, higher, stronger – together"
 collection: publications
 excerpt: 'Can biomechanics help amputee sprinters compete at the highest level?'
-date: 2022-10-07
+date: 2022-08-05
 venue: 'Science Buffs'
 paperurl: 'https://sciencebuffs.org/2022/08/05/faster-higher-stronger-together/'
 citation: 
