@@ -17,7 +17,7 @@ I'm a PhD in Physiology, with expertise in biomechanics, motor control, and biom
 
 This is a work in progress...
 ------
-This website is still incomplete but being actively updated. Keep checking for updates!
+My website is still incomplete but being actively updated!
 
 <!--
 Create content & metadata
