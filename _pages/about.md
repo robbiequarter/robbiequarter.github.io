@@ -4,9 +4,6 @@ title: "THINGS ABOUT ME"
 header:
   overlay_image: header_image.jpg
   overlay_filter: 0.3
-header:
-  overlay_image: header_image.jpg
-  overlay_filter: 0.3
 author_profile: true
 redirect_from: 
   - /about/
