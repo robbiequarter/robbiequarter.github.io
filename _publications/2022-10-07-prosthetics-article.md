@@ -8,7 +8,7 @@ paperurl: 'https://sciencebuffs.org/2022/08/05/faster-higher-stronger-together/'
 citation: 
 ---
 
-
+![Blake Leeper](https://robbiequarter.github.io/images/leeper.jpg) 
 
 [Download paper here](https://sciencebuffs.org/2022/08/05/faster-higher-stronger-together/)
 
