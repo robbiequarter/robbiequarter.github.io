@@ -1,7 +1,7 @@
 ---
 title: "Movement Vigor in Multiple Sclerosis: A Neuroeconomics Perspective"
 collection: publications
-excerpt: 'How do reward, effort, and neurological disorders affect the way we move?'
+excerpt: 'My PhD thesis. How do reward, effort, and neurological disorders affect the way we move?'
 date: 2023-12-01
 venue: 'University of Colorado Boulder'
 paperurl: 'https://www.proquest.com/pqdtglobal/docview/2901755856/abstract/173C9F42B90F40EDPQ/1'
