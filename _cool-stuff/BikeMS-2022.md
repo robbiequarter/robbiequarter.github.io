@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Co2uT Desert Gravel
-excerpt: "125 miles of biking through the Colorado and Utah desert"
+title: Bike MS
+excerpt: "Two days and 200 miles of biking to fundraise for multiple sclerosis research"
 header:
-  teaser: co2ut-5.jpeg
+  teaser: bikems-1.png
 collection: cool-stuff
 author_profile: true
 share: true
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+$1250 raised for multiple sclerosis research!

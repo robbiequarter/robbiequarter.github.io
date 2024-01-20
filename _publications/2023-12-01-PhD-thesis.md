@@ -1,15 +1,23 @@
 ---
-title: "Effort cost of reaching prompts vigor reduction in older adults"
+title: "Movement Vigor in Multiple Sclerosis: A Neuroeconomics Perspective"
 collection: publications
-excerpt: 'Why does aging coincide with a slowing of movement?'
-date: 2023-08-29
-venue: 'bioRxiv [preprint]'
-paperurl: 'https://doi.org/10.1101/2023.08.28.555022'
+excerpt: 'How do reward, effort, and neurological disorders affect the way we move?'
+date: 2023-12-01
+venue: 'University of Colorado Boulder'
+paperurl: 'https://www.proquest.com/pqdtglobal/docview/2901755856/abstract/173C9F42B90F40EDPQ/1'
 citation: 
 ---
 
-Healthy aging coincides with a reduction in speed, or vigor, of walking, reaching, and eye movements. Here we focused on disentangling two opposing sources of aging-related movement slowing: reduced reward sensitivity due to loss of dopaminergic tone, or increased energy expenditure movements related to mitochondrial or muscular inefficiencies. Through a series of three experiments and construction of a computational model, here we demonstrate that transient changes in reaction time and movement speed together offer a quantifiable metric to differentiate between reward- and effort-based alterations in movement vigor. Further, we suggest that objective increases in the metabolic cost of moving, not reductions in reward valuation, are driving much of the movement slowing occurring alongside healthy aging.
+Close scrutinization of the movements humans execute reveals substantial information regarding the status of the underlying controller – that is, the central nervous system (CNS). How difficult an action, the value of something approached, or even the presence of neurological disorder can be signified by observing movement and its changes. 
 
-[Download paper here](https://doi.org/10.1101/2023.08.28.555022)
+The purpose of this dissertation is to exploit movement for identifying the driving forces behind movement slowness associated with multiple sclerosis (MS), a disease of the CNS. To do so, we needed to establish a reference point using neurologically healthy adults. The first study subsequently investigated arm reaching in healthy young and older adults in varying reward-effort landscapes. When expecting reward, individuals quickened both reaction time and movement speed, but if the effort needed to accrue that reward was arduous, individuals relied more on reacting faster and less so on moving faster. How, and to what extent, an individual modifies a goal-directed movement can signify the principal behavioral modifier.
 
-**Recommended citation:** Summerside, E. M., Courter, R. J., Shadmehr, R., & Ahmed, A. A. (2023). Effort cost of reaching prompts vigor reduction in older adults (p. 2023.08.28.555022). *bioRxiv.* https://doi.org/10.1101/2023.08.28.555022
+With the knowledge that movement kinematics can disclose an individual’s sensitivity to reward and effort costs, the next two studies considered these as potential sources of slowness in persons with MS. The second study asked if higher effort costs of movement were causing individuals with MS to slow down. Energetic differences depended upon the movement: walking was more costly for those with MS, but not necessarily so when reaching. The third study emulated the first study and asked whether individuals with MS were instead moving more slowly because they perceive movements as subjectively less rewarding or, perhaps, as more effortful. Persons affected by MS appeared to alter movement due to a distinct exaggeration of the perceived effort of the action, not due to a reduction in the subjective value of the expected rewards. In other words, MS may appraise rewards normally, but overestimate the presumed costs of the movement required to get there, resulting in reduced incentive to move vigorously. 
+
+Taken together, this dissertation provides a novel perspective for understanding the idiosyncratic value of reward and effort in shaping movements, especially its formative role in the irregular movement slowing accompanying MS.
+
+
+[Download paper here](https://www.proquest.com/pqdtglobal/docview/2901755856/abstract/173C9F42B90F40EDPQ/1)
+
+**Recommended citation:** Courter, R. J. (2023). Movement Vigor in Multiple Sclerosis: A Neuroeconomics Perspective *Ph.D., University of Colorado at Boulder*. https://www.proquest.com/pqdtglobal/docview/2901755856/abstract/173C9F42B90F40EDPQ/1
+
