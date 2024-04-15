@@ -13,7 +13,7 @@ redirect_from:
 
 HOWDY!
 ------
-I'm a PhD in Physiology, with expertise in biomechanics, motor control, and biomedical engineering. I am obsessed with how the body moves - whether it's why movements change during neurological disease or how we can best optimize athletic performance. I'm an experienced researcher and avid cyclist; between training and academics, my remaining free time involves vigorous snacking. Let's make it happen!
+I'm a recent PhD with diverse expertise in biomechanics, behavioral neuroscience, biomedical engineering, and statistical data analysis. My driving inspiration is to improve and enable movement for all, especially for those living with neurodegenerative or musculoskeletal diseases.
 
 This is a work in progress...
 ------
