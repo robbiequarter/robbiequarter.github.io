@@ -12,7 +12,7 @@ For elite amputee runners looking to compete side-by-side with their non-amputee
 
 ![Blake Leeper](https://robbiequarter.github.io/images/leeper.jpg) 
 
-[Download paper here](https://sciencebuffs.org/2022/08/05/faster-higher-stronger-together/)
+[Read the full article here](https://sciencebuffs.org/2022/08/05/faster-higher-stronger-together/)
 
 **Recommended citation:** Courter, R. (2022, August 5). Faster, higher, stronger – together. Science Buffs. https://sciencebuffs.org/2022/08/05/faster-higher-stronger-together/
 
